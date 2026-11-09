@@ -27,7 +27,7 @@ Nothing here is invented to pad out a write-up — every claim traces back to a 
 
 ## Video
 
-Narrated walkthrough (28 min): **[Watch on YouTube](#)** — *link pending upload.*
+Narrated walkthrough (28 min): **[Watch on YouTube](https://www.youtube.com/watch?v=V4Fjgvpaq2A)**
 
 ## Why this exists as its own repo
 
